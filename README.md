@@ -44,7 +44,7 @@
 
 ## 📌 Featured Interests
 
-- Customer churn analysis  
+- Data analysis  
 - Business intelligence  
 - Data cleaning and preparation  
 - SQL database querying  
@@ -61,15 +61,6 @@
 </p>
 
 ---
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="mailto:heatwave422@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
