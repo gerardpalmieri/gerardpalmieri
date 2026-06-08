@@ -11,11 +11,10 @@
 ## 🚀 About Me
 
 - 🎓 Bachelor’s degree graduate, currently pursuing a **Master’s in Data Science and Strategic Analytics**
-- 📊 Interested in **data analytics, business analytics, logistics, and supply chain operations**
+- 📊 Interested in **data analytics, business analytics, and logistics**
 - 🧠 Skilled in working with datasets to find patterns, trends, and insights
 - 🛠️ Experience using **Python, R, SQL, Excel, PostgreSQL, Supabase, and pgAdmin**
-- 💼 Current role at **ACME Markets**, where I build accuracy, organization, customer service, and deadline-management skills
-- 📫 Reach me at: **heatwave422@gmail.com**
+- 📫 Reach me at: **gerardlpalmieri@hotmail.com**
 
 ---
 
