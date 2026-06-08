@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Gerry%20Palmieri&animation=fadeIn&type=waving&color=gradient&height=200&section=header&fontSize=60&desc=Data%20Science%20%7C%20Analytics%20%7C%20SQL%20%7C%20Python%20%7C%20Business%20Intelligence&descSize=22&fontAlignY=35&descAlignY=60" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Gerard%20Palmieri&animation=fadeIn&type=waving&color=gradient&height=200&section=header&fontSize=60&desc=Data%20Science%20%7C%20Analytics%20%7C%20SQL%20%7C%20Python%20%7C%20Business%20Intelligence&descSize=22&fontAlignY=35&descAlignY=60" alt="Header"/>
 </p>
 
 <p align="center">
