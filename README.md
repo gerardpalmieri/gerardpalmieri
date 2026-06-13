@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Bachelor’s degree graduate, currently pursuing a **Master’s in Data Science and Strategic Analytics**
+- 🎓 Business Administration degree from Stockton University, currently pursuing a **Master’s in Data Science and Strategic Analytics**
 - 📊 Interested in **data analytics, business analytics, and logistics**
 - 🧠 Skilled in working with datasets to find patterns, trends, and insights
 - 🛠️ Experience using **Python, R, SQL, Excel, PostgreSQL, Supabase, and pgAdmin**
